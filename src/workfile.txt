@@ -1,0 +1,1 @@
+{"txid":"J2A00101-1547020280" ,"gwid":"J2A00101" ,"deviceid": "DB7qo20z","device_name": "XXX Controller","switch_time": "2019-01-09 15:51:20" , "value": "1" }
